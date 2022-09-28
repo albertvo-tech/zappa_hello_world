@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": "<aws_profile_name>",
+        "project_name": "<project_name>",
+        "keep_warm": false,
+        "runtime": "python3.9",
+        "s3_bucket": "<aws_bucket_name>",
+        "aws_region": "eu-west-1"
+    }
+}
